@@ -2,7 +2,6 @@
 
 🚀 *This project showcases my Data Analytics skills using real-world e-commerce data and is suitable for Data Analyst / Business Analyst roles.*
 
----
 
 ## 📌 Project Overview
 
@@ -14,7 +13,6 @@ It demonstrates an end-to-end data analytics workflow including:
 - Data visualization  
 - Business insights extraction  
 
----
 
 ## 🛠️ Tools & Technologies Used
 
@@ -23,7 +21,6 @@ It demonstrates an end-to-end data analytics workflow including:
 - 📊 Power BI
 - 📑 Microsoft Excel
 
----
 
 ## 📈 Key Analysis & KPIs
 
@@ -55,7 +52,6 @@ It demonstrates an end-to-end data analytics workflow including:
 - Outlier detection using IQR method  
 - High discount product analysis  
 
----
 
 ## 📊 Power BI Dashboard
 
@@ -66,13 +62,10 @@ An interactive dashboard was created to visualize:
 - 🏆 Top customers & brands  
 - 💰 Profitability insights  
 
----
 
-## 📸 Screenshots
+## 📸 Dashboard Screenshot
 
 <img width="1378" height="751" alt="Screenshot 2026-04-09 164232" src="https://github.com/user-attachments/assets/c6ad4335-f321-40ff-94d2-c93687949c70" />
-
----
 
 
 ## 🧠 Key Learnings
@@ -82,23 +75,20 @@ An interactive dashboard was created to visualize:
 - Built interactive dashboards using Power BI  
 - Gained insights into e-commerce sales performance  
 
----
 
 ## 🎯 Project Objective
 
 The main objective of this project is to simulate a real-world e-commerce business scenario and derive actionable insights to improve:
 - Sales performance  
 - Customer engagement  
-- Profitability  
+- Profitability
 
----
 
 ## 🤝 Connect with Me
 
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/naveen-indla/)
 - 📧 Email: [ My Email](naveenindla32@gmail.com)  
 
----
 
 ## ⭐ If you like this project
 
