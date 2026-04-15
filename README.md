@@ -1,10 +1,120 @@
-📌 Project Overview
+# 📊 Flipkart Sales Data Analysis Project
 
-This project focuses on analyzing Flipkart sales data to extract meaningful business insights using Python, SQL, Excel, and Power BI.
+🚀 *This project showcases my Data Analytics skills using real-world e-commerce data and is suitable for Data Analyst / Business Analyst roles.*
+
+---
+
+## 📌 Project Overview
+
+This project focuses on analyzing Flipkart sales data to extract meaningful business insights using **Python, SQL, Excel, and Power BI**.  
 
 It demonstrates an end-to-end data analytics workflow including:
+- Data loading & cleaning  
+- KPI generation  
+- Data visualization  
+- Business insights extraction  
 
-Data loading & cleaning
-KPI generation
-Data visualization
-Business insights extraction
+---
+
+## 🛠️ Tools & Technologies Used
+
+- 🐍 Python (Pandas, Matplotlib)
+- 🗄️ SQL (MySQL)
+- 📊 Power BI
+- 📑 Microsoft Excel
+
+---
+
+## 📈 Key Analysis & KPIs
+
+### 🔹 Sales & Profit Analysis
+- Total sales and profit by category  
+- Profit margin (%) calculation  
+
+### 🔹 Customer Insights
+- Top customers by total orders  
+- Repeat purchase analysis  
+
+### 🔹 Time-Based Analysis
+- Monthly sales trends  
+- Year-over-Year (YoY) growth (2023 vs 2024)  
+
+### 🔹 Product & Brand Analysis
+- Top-selling products  
+- Top 10 brands by revenue  
+- Low-rated products (Rating < 3)  
+
+### 🔹 Regional Analysis
+- Region-wise sales performance  
+- Filtered insights (e.g., South region, 2024)  
+
+### 🔹 Payment Analysis
+- Sales contribution by payment mode  
+
+### 🔹 Advanced Analytics
+- Outlier detection using IQR method  
+- High discount product analysis  
+
+---
+
+## 📊 Power BI Dashboard
+
+An interactive dashboard was created to visualize:
+
+- 📅 Sales trends over time  
+- 📦 Category-wise performance  
+- 🏆 Top customers & brands  
+- 💰 Profitability insights  
+
+---
+
+## 📂 Project Structure
+Flipkart-Sales-Analysis
+│── README.md
+│── Python/
+│ └── kpi_analysis.py
+│── SQL/
+│ └── kpi_queries.sql
+│── Excel/
+│ └── KPI_analysis.xlsx
+│── PowerBI/
+│ └── dashboard.pbix
+│── Dataset/
+│ └── dataset.csv
+
+
+---
+
+## 🧠 Key Learnings
+
+- Applied data cleaning and transformation techniques  
+- Performed business KPI analysis using SQL and Python  
+- Built interactive dashboards using Power BI  
+- Gained insights into e-commerce sales performance  
+
+---
+
+## 🎯 Project Objective
+
+The main objective of this project is to simulate a real-world e-commerce business scenario and derive actionable insights to improve:
+- Sales performance  
+- Customer engagement  
+- Profitability  
+
+---
+## 📸 Screenshots
+
+> Add dashboard screenshots here to make your project more attractive
+
+---
+
+## 🤝 Connect with Me
+
+- 💼 LinkedIn: (Add your profile link)  
+- 📧 Email: (Add your email)  
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to fork it!
