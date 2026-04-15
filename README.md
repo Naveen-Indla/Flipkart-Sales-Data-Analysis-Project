@@ -68,22 +68,12 @@ An interactive dashboard was created to visualize:
 
 ---
 
-## 📂 Project Structure
-Flipkart-Sales-Analysis
-│── README.md
-│── Python/
-│ └── kpi_analysis.py
-│── SQL/
-│ └── kpi_queries.sql
-│── Excel/
-│ └── KPI_analysis.xlsx
-│── PowerBI/
-│ └── dashboard.pbix
-│── Dataset/
-│ └── dataset.csv
+## 📸 Screenshots
 
+<img width="1378" height="751" alt="Screenshot 2026-04-09 164232" src="https://github.com/user-attachments/assets/c6ad4335-f321-40ff-94d2-c93687949c70" />
 
 ---
+
 
 ## 🧠 Key Learnings
 
@@ -102,16 +92,11 @@ The main objective of this project is to simulate a real-world e-commerce busine
 - Profitability  
 
 ---
-## 📸 Screenshots
-
-> Add dashboard screenshots here to make your project more attractive
-
----
 
 ## 🤝 Connect with Me
 
-- 💼 LinkedIn: (Add your profile link)  
-- 📧 Email: (Add your email)  
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/naveen-indla/)
+- 📧 Email: [ My Email](naveenindla32@gmail.com)  
 
 ---
 
